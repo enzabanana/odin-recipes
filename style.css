@@ -1,0 +1,44 @@
+/* style */
+
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+}
+
+#title {
+    font-style: italic;
+}
+
+.headline {
+
+ height: 300px;
+}
+
+#img {
+    width: auto;
+    height: 200px;
+    align-items: center;
+    text-align: center;
+}
+
+.description .title, .ingredients .title {
+    color: rebeccapurple;
+    font-size: 24px;
+} 
+
+.method .title {
+    color: violet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.description .list, .method .list, .ingredients .list {
+    color: orange;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
